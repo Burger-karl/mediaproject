@@ -26,7 +26,7 @@ SECRET_KEY = 'b@jz&jx1g6#3n!u48n0fpb#0(^gv+%%r$#b=_+%$a2)r)tttx+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pictora.onrender.com']
 
 
 # Application definition
